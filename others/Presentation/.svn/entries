@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="34"
+   name=""
+   committed-date="2009-01-10T13:07:42.580819Z"
+   url="http://www.eic.eng.chula.ac.th/svn/repos/parnurzeal/NSC/Presentation"
+   last-author="parnurzeal"
+   kind="dir"
+   uuid="abfaad2b-e0f9-481f-a6a0-7defe7818edc"
+   repos="http://www.eic.eng.chula.ac.th/svn/repos/parnurzeal"
+   revision="56"/>
+<entry
+   committed-rev="34"
+   name="PINEAPPLE.pptx"
+   text-time="2009-02-05T06:02:29.031000Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="c35bd5095fc89ce55fdfb8ebb3532423"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-08T06:49:13.109375Z"/>
+<entry
+   name="Picture"
+   kind="dir"/>
+</wc-entries>

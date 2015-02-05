@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="34"
+   name=""
+   committed-date="2009-01-10T13:07:42.580819Z"
+   url="http://www.eic.eng.chula.ac.th/svn/repos/parnurzeal/NSC/Presentation/Picture"
+   last-author="parnurzeal"
+   kind="dir"
+   uuid="abfaad2b-e0f9-481f-a6a0-7defe7818edc"
+   repos="http://www.eic.eng.chula.ac.th/svn/repos/parnurzeal"
+   revision="56"/>
+<entry
+   committed-rev="34"
+   name="._AcolorMerge.png"
+   text-time="2009-01-08T13:36:50.000000Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="fe77a53649df0405e812239ce3793ebb"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.405625Z"/>
+<entry
+   committed-rev="33"
+   name="people panorama.bmp"
+   text-time="2009-01-07T19:24:52.202375Z"
+   committed-date="2009-01-08T06:51:21.148852Z"
+   checksum="ef7d3abb3d4706fec7a3aea5a70fc958"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-08T06:49:13.015625Z"/>
+<entry
+   committed-rev="33"
+   name="Cmu_panorama.jpg"
+   text-time="2009-01-07T15:13:38.186625Z"
+   committed-date="2009-01-08T06:51:21.148852Z"
+   checksum="347d82623b2296ba3c5616ee1b0c076e"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-08T06:49:12.953125Z"/>
+<entry
+   committed-rev="34"
+   name="AcolorMerge.png"
+   text-time="2009-01-08T13:36:50.000000Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="5c584b6870a2029c15152f382cb8ce85"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.483750Z"/>
+<entry
+   committed-rev="34"
+   name="Acolor1.png"
+   text-time="2009-01-08T13:11:30.999875Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="7f016d7a6ef6b189a897bce5a891faa6"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.436875Z"/>
+<entry
+   committed-rev="34"
+   name="Acolor2.png"
+   text-time="2009-01-08T13:11:36.718625Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="2d48266d346013b3c765b6a91371459e"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.468125Z"/>
+<entry
+   committed-rev="34"
+   name="Thumbs.db"
+   text-time="2009-01-08T13:44:22.046000Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="7559bb90dff72beea193153092c75169"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-08T06:49:13.046875Z"/>
+<entry
+   committed-rev="34"
+   name="agrey1.JPG"
+   text-time="2009-01-08T07:32:51.390625Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="817c0e37c131eca298a4ed3a8066d143"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.530625Z"/>
+<entry
+   committed-rev="34"
+   name="agrey2.JPG"
+   text-time="2009-01-08T07:29:44.218750Z"
+   committed-date="2009-01-10T13:07:42.580819Z"
+   checksum="a02072a481f4cf1150d5c60b07de6d04"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-10T13:06:31.593125Z"/>
+<entry
+   committed-rev="33"
+   name="ภาพจากกล้องวงจรปิด.JPG"
+   text-time="2009-01-07T14:00:24.905375Z"
+   committed-date="2009-01-08T06:51:21.148852Z"
+   checksum="b9960ccb79752cbea48d4f8bb57e2684"
+   last-author="parnurzeal"
+   kind="file"
+   prop-time="2009-01-08T06:49:13.078125Z"/>
+</wc-entries>
